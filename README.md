@@ -15,7 +15,10 @@ The 2 datasets will be split - 70% for training and 30% for test.
 The following paramters will be fixed: criterion=entropy, cv=3 (cross validation), n_jobs = 4 (number of parallel jobs)
 
 1. Examine the influnce of different parameters of the decision tree: 
-    1. Check the influence of the parameter "max_depth".
-    2. Check the influence of the parameter "min_samples_leaf".
-    3. Check the influence of the parameter "max_leaf_nodes".
+    
+    a. Check the influence of the parameter "max_depth".
+    
+    b. Check the influence of the parameter "min_samples_leaf".
+    
+    c. Check the influence of the parameter "max_leaf_nodes".
 2. Choose the optimal value of each paramter and run it all together.
