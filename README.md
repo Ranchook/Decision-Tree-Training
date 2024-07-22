@@ -1,4 +1,4 @@
-# Decision-Tree-Training
+# Decision Tree Training
 2nd Class exercise in intro ML and data science course - training a decision tree and comparing a 2 dimensonal dataset with a multi dimensional dataset.
 
 Decision trees are a type of supervised learning algorithm used for classification and regression tasks. They work by recursively splitting the data into subsets based on feature values, creating a tree-like model of decisions. Each internal node represents a decision based on a feature, each branch represents an outcome of the decision, and each leaf node represents a class label or a continuous value.
@@ -6,7 +6,7 @@ Decision trees are a type of supervised learning algorithm used for classificati
 In this class exercise we were asked to train a decision tree on 2 different data sets: Iris (2d dataset) and Spectral (multi-dimensional dataset).
 We examined the influence of different parameters on the accuracy of the tree and carefully chose the optimal values.
 
-## exercise
+## The exercise
 
 The 2 datasets will be split - 70% for training and 30% for test.
 
